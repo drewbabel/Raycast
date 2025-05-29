@@ -1,5 +1,11 @@
 # ChatGPT Quick Actions Changelog
 
+## [Add latest OpenAI models] - {PR_MERGE_DATE}
+
+- Add support for new OpenAI reasoning models: `o1-preview`, `o1-mini`, and `o3-mini`
+- Update pricing estimates for the new models
+- Models are now available in all command preferences and global preferences
+
 ## [Add Transform and Transform Preview commands] - 2024-09-18
 
 - Add a Transform command which replaces the selected text with transformed text based on a prompt that is entered when the command is run.

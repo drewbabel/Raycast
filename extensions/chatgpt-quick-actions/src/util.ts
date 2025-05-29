@@ -39,6 +39,13 @@ export function estimatePrice(prompt_token: number, output_token: number, model:
     price = (prompt_token * 0.15 + output_token * 0.6) / 10000;
   } else if (model == "gpt-4o") {
     price = (prompt_token * 5.0 + output_token * 15.0) / 10000;
+  } else if (model == "o1-preview") {
+    price = (prompt_token * 15.0 + output_token * 60.0) / 10000;
+  } else if (model == "o1-mini") {
+    price = (prompt_token * 3.0 + output_token * 12.0) / 10000;
+  } else if (model == "o3-mini") {
+    // Using estimated pricing for o3-mini based on o1-mini pricing
+    price = (prompt_token * 3.0 + output_token * 12.0) / 10000;
   } else {
     return -1;
   }

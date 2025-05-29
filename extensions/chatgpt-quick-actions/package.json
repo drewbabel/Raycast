@@ -49,6 +49,18 @@
               "value": "gpt-4o-mini"
             },
             {
+              "title": "o1-preview",
+              "value": "o1-preview"
+            },
+            {
+              "title": "o1-mini",
+              "value": "o1-mini"
+            },
+            {
+              "title": "o3-mini",
+              "value": "o3-mini"
+            },
+            {
               "title": "GPT-4",
               "value": "gpt-4"
             },
@@ -97,6 +109,18 @@
             {
               "title": "GPT-4o mini",
               "value": "gpt-4o-mini"
+            },
+            {
+              "title": "o1-preview",
+              "value": "o1-preview"
+            },
+            {
+              "title": "o1-mini",
+              "value": "o1-mini"
+            },
+            {
+              "title": "o3-mini",
+              "value": "o3-mini"
             },
             {
               "title": "GPT-4",
@@ -149,6 +173,18 @@
               "value": "gpt-4o-mini"
             },
             {
+              "title": "o1-preview",
+              "value": "o1-preview"
+            },
+            {
+              "title": "o1-mini",
+              "value": "o1-mini"
+            },
+            {
+              "title": "o3-mini",
+              "value": "o3-mini"
+            },
+            {
               "title": "GPT-4",
               "value": "gpt-4"
             },
@@ -199,6 +235,18 @@
               "value": "gpt-4o-mini"
             },
             {
+              "title": "o1-preview",
+              "value": "o1-preview"
+            },
+            {
+              "title": "o1-mini",
+              "value": "o1-mini"
+            },
+            {
+              "title": "o3-mini",
+              "value": "o3-mini"
+            },
+            {
               "title": "GPT-4",
               "value": "gpt-4"
             },
@@ -241,6 +289,18 @@
               "value": "gpt-4o-mini"
             },
             {
+              "title": "o1-preview",
+              "value": "o1-preview"
+            },
+            {
+              "title": "o1-mini",
+              "value": "o1-mini"
+            },
+            {
+              "title": "o3-mini",
+              "value": "o3-mini"
+            },
+            {
               "title": "GPT-4",
               "value": "gpt-4"
             },
@@ -281,6 +341,18 @@
             {
               "title": "GPT-4o mini",
               "value": "gpt-4o-mini"
+            },
+            {
+              "title": "o1-preview",
+              "value": "o1-preview"
+            },
+            {
+              "title": "o1-mini",
+              "value": "o1-mini"
+            },
+            {
+              "title": "o3-mini",
+              "value": "o3-mini"
             },
             {
               "title": "GPT-4",
@@ -333,6 +405,18 @@
               "value": "gpt-4o-mini"
             },
             {
+              "title": "o1-preview",
+              "value": "o1-preview"
+            },
+            {
+              "title": "o1-mini",
+              "value": "o1-mini"
+            },
+            {
+              "title": "o3-mini",
+              "value": "o3-mini"
+            },
+            {
               "title": "GPT-4",
               "value": "gpt-4"
             },
@@ -383,6 +467,18 @@
               "value": "gpt-4o-mini"
             },
             {
+              "title": "o1-preview",
+              "value": "o1-preview"
+            },
+            {
+              "title": "o1-mini",
+              "value": "o1-mini"
+            },
+            {
+              "title": "o3-mini",
+              "value": "o3-mini"
+            },
+            {
               "title": "GPT-4",
               "value": "gpt-4"
             },
@@ -425,6 +521,18 @@
         {
           "title": "GPT-4o mini",
           "value": "gpt-4o-mini"
+        },
+        {
+          "title": "o1-preview",
+          "value": "o1-preview"
+        },
+        {
+          "title": "o1-mini",
+          "value": "o1-mini"
+        },
+        {
+          "title": "o3-mini",
+          "value": "o3-mini"
         },
         {
           "title": "GPT-4",
